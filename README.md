@@ -2,7 +2,7 @@
 BuyForce MVP is a college project. It's a digital commerce platform that leverages collective purchasing power to unlock wholesale-level pricing for consumers.
 
 ---
-#This is taken from the Buyforce-MVP file we were given.
+# This is taken from the Buyforce-MVP file we were given.
 
 BuyForce is a new digital commerce platform that leverages collective purchasing power to unlock wholesale-level pricing for consumers.
 The platform focuses on high-value products (1,000+₪), enabling users to join group-buying campaigns with a symbolic 1₪  pre-authorization and charging the full discounted price only if the group reaches the minimum quantity required by suppliers.
