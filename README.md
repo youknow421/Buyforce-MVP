@@ -9,15 +9,17 @@ The platform focuses on high-value products (1,000+₪), enabling users to join 
 If the group fails to reach the target - the pre-authorization is immediately refunded.
 The platform launches with a Web App + Native iOS & Android apps, a complete Admin Console, and full Tranzilla payment integration.
 
-The MVP includes:
-    • Dynamic homepage (Near Goal, Market-Breaking Deals, New Arrivals)
-    • Category browsing (electronics, travel, home, furniture, etc.)
-    • Wishlist
-    • My Groups
-    • Search overlay
-    • Fully designed product cards
-    • Admin portal with manual product & supplier operations
-    • Automated group lifecycle (open>locked >charged/refunded)
+# The MVP includes
+
+• Dynamic homepage (Near Goal, Market-Breaking Deals, New Arrivals)
+• Category browsing (electronics, travel, home, furniture, etc.)
+• Wishlist
+• My Groups
+• Search overlay
+• Fully designed product cards
+• Admin portal with manual product & supplier operations
+• Automated group lifecycle (open>locked >charged/refunded)
+
 The system is fully scalable for future expansion into AI-driven supplier negotiation, international multi-currency commerce, and logistics partnerships.
 
 ---
