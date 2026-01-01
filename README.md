@@ -84,3 +84,5 @@ Homepage dynamic sections |	⚠️ Basic |	Just product list with filters - no h
 Group lifecycle automation | ❌ Not done	| No auto-close, reminders, expiry handling
 
 Full UX/UI system  |	⚠️ Basic |	Inline styles - no proper design system/components
+
+For clarification, most of the "Not done" are in a working state. i(Abdallah)'d rather polish them before calling them "Done" though.
