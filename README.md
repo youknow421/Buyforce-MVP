@@ -86,3 +86,9 @@ Group lifecycle automation | ❌ Not done	| No auto-close, reminders, expiry han
 Full UX/UI system  |	⚠️ Basic |	Inline styles - no proper design system/components
 
 For clarification, most of the "Not done" are in a working state. i(Abdallah)'d rather polish them before calling them "Done" though.
+
+---
+
+# Current state
+
+I(Abdallah) have decided to just compress and upload the file instead of doing everything one by one. This isn't the final version, so there isn't really a point in uploading everything one by one and i do not know or remember a better method. Now i just need to figure out how to remove everything else i added
