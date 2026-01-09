@@ -54,5 +54,35 @@ Abdallah will do:
     • Homepage dynamic sections
     • Group lifecycle automation
     • Full UX/UI system
+
 ---
 
+# Current state of the project is:
+
+Feature 	| Status  | 	Notes
+
+Web app (Next.js)  |	❌ Not done	Currently | using Vite + React (not Next.js)
+
+Native app (React Native)  |	⚠️ Partial  |	Basic screens exist (Home, Product, Cart, Checkout) - missing auth, orders, groups, wishlist
+
+Tranzilla payments  |	✅ Done  |	Payment sessions, webhooks, signature verification
+
+Categories + category feeds	| ✅ Done |	Categories.jsx, Category.jsx pages
+
+Wishlist	✅ Done	Wishlist.jsx + WishlistProvider
+
+My Groups	| ✅ Done	|  Groups.jsx, GroupDetail.jsx + GroupProvider
+
+Search overlay	| ✅ Done |	SearchOverlay.jsx component
+
+Notifications (email + push)  |	⚠️ Partial |	Email mock exists - no push notifications
+
+Admin Console |	❌ Not done  |	No admin pages/routes
+
+Homepage dynamic sections |	⚠️ Basic |	Just product list with filters - no hero, featured, promotions
+
+Group lifecycle automation | ❌ Not done	| No auto-close, reminders, expiry handling
+
+Full UX/UI system  |	⚠️ Basic |	Inline styles - no proper design system/components
+
+For clarification, most of the "Not done" are in a working state. i(Abdallah)'d rather polish them before calling them "Done" though.
