@@ -94,3 +94,5 @@ For clarification, most of the "Not done" are in a working state. i(Abdallah)'d 
 I(Abdallah) have decided to just compress and upload the file instead of doing everything one by one. This isn't the final version, so there isn't really a point in uploading everything one by one and i do not know or remember a better method. Now i just need to figure out how to remove everything else i added
 
 A couple files have been removed for space, mainly node files and such as they can be reinstalled very easily. Anyway, no time to rest, i'm going back to work on the project
+
+Ps: Web file isnt included kay bye
